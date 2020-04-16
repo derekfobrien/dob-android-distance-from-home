@@ -7,4 +7,4 @@ It tells you if you are within or outside the 2km limit, by means of changing th
 
 This is in accordance with the Covid-19 lockdown in Ireland, introduced on the 27th March 2020, in an attempt to slow down the coronavirus. The regulations under which this order was imposed state that you are supposed to stay within 2km of your home, except if you need to carry out specified essential tasks.
 
-Another facility on this app that you may have noticed is that there is a switch below the "Set as Home Coordinated" button. This is used to determine the number of decimal places to which the latitude and longitude is displayed.
+Another facility on this app that you may have noticed is that there is a switch below the "Set as Home Coordinates" button. This is used to determine the number of decimal places to which the latitude and longitude is displayed.
