@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DistanceFromHome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_gps">Current GPS Coordinates</string>
+    <string name="set_home">Set as Home Coordinates</string>
+    <string name="message_before">Distance from Home is</string>
+    <string name="message_after">as the crow flies</string>
+    <string name="display_full_values">Display full values</string>
+
+    <string name="blank_coords">0.000000 E, 0.000000 N</string>
+    <string name="blank_dist">0.000</string>
+
+    <dimen name="gap1">8dp</dimen>
+    <dimen name="gap2">16dp</dimen>
+    <dimen name="gap3">24dp</dimen>
+</resources>
